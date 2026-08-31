@@ -1,19 +1,12 @@
-# MIPS_Architure_Project_2021
+# MIPS assembly homework — primes
 
-Original Assembly coursework / practice repository (2021).
+Computer-architecture homework: `hw_arch/prime.asm` (MIPS) plus a screenshot of the output.
 
-This repository is **original work** on this account. It is kept for provenance.
+A single assembly assignment, not a CPU.
 
-It is **not** current research. Featured work:
+**Stack:** MIPS assembly
 
-- [qg-lada-lab](https://github.com/ahmaddroobi99/qg-lada-lab) — QG Lagrangian data assimilation
-- [ai-perception-lab](https://github.com/ahmaddroobi99/ai-perception-lab) — computer vision lab
-- Profile: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
+---
+Historical **BSc Computer Engineering** work (An-Najah National University, 2021). Kept for provenance — not current research.
 
-## Language
-
-Assembly
-
-## Year
-
-2021
+Current work: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
